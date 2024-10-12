@@ -10,6 +10,7 @@ Welcome to the **Restaurant Website** project built using the **MERN stack** (Mo
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [License](#license)
+- [Credits](#credits)
 
 ## ⚡ Features
 
@@ -83,6 +84,10 @@ MAILTRAP_PASS=your_mailtrap_password
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+## 🤝 Credits
+
+Special thanks to @Surendrakumarpatel for providing inspiration and resources for this project.
 
 ---
 
